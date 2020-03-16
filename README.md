@@ -1,6 +1,6 @@
 # Robotic Arm Version 2
 
-[Here you can find documentation on second version of the world's first truly open-source low-cost bionic arm by e-NABLE Medellín](https://github.com/enable-medellin/RoboticArmV2/wiki)
+[Here you can find documentation on second version of the world's first truly open-source low-cost bionic arm by e-NABLE Medellín](https://github.com/enable-medellin/RoboticArmV2/wiki/Robotic-Arm-Version-2)
 
 <img src =  "https://github.com/enable-medellin/RoboticArmV2/blob/master/wiki_images/roboticArmV2.jpg" width = "1000">
 
